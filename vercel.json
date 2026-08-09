@@ -3,6 +3,6 @@
   "framework": "nextjs",
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
-  "installCommand": "npm ci --prefer-offline --no-audit --no-fund",
+  "installCommand": "npm install --prefer-offline --no-audit --no-fund",
   "regions": ["cdg1"]
 }
